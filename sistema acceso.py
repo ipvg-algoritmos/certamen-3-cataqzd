@@ -16,4 +16,3 @@ if acceso:
     print("acceso permitido")
 else:
     print("no tiene acceso")
-    
