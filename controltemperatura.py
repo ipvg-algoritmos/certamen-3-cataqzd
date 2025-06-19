@@ -1,4 +1,4 @@
-temperaturas = [1]
+Temperaturas = [1]
 for i in range(5):
     temp = int(input("ingrese una temperatura"))
     temperaturas.append(temp)
